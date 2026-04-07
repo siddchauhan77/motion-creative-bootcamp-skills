@@ -1,0 +1,24 @@
+{
+  "name": "motion-creative-bootcamp",
+  "version": "1.0.0",
+  "description": "Will Sartorious's Motion Creative Strategy Bootcamp Week 4 — 5-step AI ad creation system for DTC brands. Brand research, spec cards, copy scoring (7 agents, 90+ required), and competitor ad reverse-engineering. Outputs complete fal.ai Nano Banana 2 image prompts.",
+  "author": "Will Sartorious (Motion Creative Strategy Bootcamp)",
+  "installedBy": "Sidd Chauhan",
+  "skills": [
+    {
+      "name": "brand-research",
+      "description": "Run once per brand. 7-phase brand intelligence brief (identity, product, proof, pain points, competitors, founder story, hooks) + Brand Spec Card and Visual Style Card as HTML pages ready to screenshot for fal.ai.",
+      "path": "skills/motion/brand-research/SKILL.md"
+    },
+    {
+      "name": "ad-brief",
+      "description": "Generate a complete ad creative brief. Write copy for any of 15 DTC ad formats, score it through 7 agents (minimum 90+, Agent 7 has veto power), iterate until approved, output a complete fal.ai Nano Banana 2 image prompt.",
+      "path": "skills/motion/ad-brief/SKILL.md"
+    },
+    {
+      "name": "ad-swipe",
+      "description": "Clone any competitor ad without copying it. 3-stage workflow: deconstruct every creative decision from an uploaded competitor ad image, rebuild the structure for your brand with original copy, output a complete Nano Banana 2 prompt ready to paste into fal.ai.",
+      "path": "skills/motion/ad-swipe/SKILL.md"
+    }
+  ]
+}
