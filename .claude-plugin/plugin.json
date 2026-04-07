@@ -1,7 +1,7 @@
 {
   "name": "motion-creative-bootcamp",
-  "version": "1.0.0",
-  "description": "Will Sartorious's Motion Creative Strategy Bootcamp Week 4 — 5-step AI ad creation system for DTC brands. Brand research, spec cards, copy scoring (7 agents, 90+ required), and competitor ad reverse-engineering. Outputs complete fal.ai Nano Banana 2 image prompts.",
+  "version": "1.1.0",
+  "description": "Will Sartorious's Motion Creative Strategy Bootcamp — complete 5-step AI ad creation system for DTC brands. Brand research, spec cards, copy scoring (7 agents, 90+ required), competitor ad reverse-engineering, animation workflow, and production prompts. Outputs fal.ai Nano Banana 2 image prompts and Veo 3.1 animation prompts.",
   "author": "Will Sartorious (Motion Creative Strategy Bootcamp)",
   "installedBy": "Sidd Chauhan",
   "skills": [
@@ -19,6 +19,16 @@
       "name": "ad-swipe",
       "description": "Clone any competitor ad without copying it. 3-stage workflow: deconstruct every creative decision from an uploaded competitor ad image, rebuild the structure for your brand with original copy, output a complete Nano Banana 2 prompt ready to paste into fal.ai.",
       "path": "skills/motion/ad-swipe/SKILL.md"
+    },
+    {
+      "name": "animate",
+      "description": "Turn a winning static ad into a 3-4 second animation. 5-step workflow: ideate concepts → generate missing frame with Nano Banana 2 → get Veo 3.1 JSON prompt → animate via Google Flow → iterate. Upload static ad to get started.",
+      "path": "skills/motion/animate/SKILL.md"
+    },
+    {
+      "name": "produce",
+      "description": "Day-to-day production workflow. 4 prompts in sequence: brief an ad → agent review to 90+ → convert to Nano Banana 2 prompt → multiply winner across all 15 formats. Run in a Claude Project with brand brief and format templates loaded.",
+      "path": "skills/motion/produce/SKILL.md"
     }
   ]
 }
