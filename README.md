@@ -82,6 +82,19 @@ motion:ad-swipe [brand] [product] [persona] [angle] [emotion]
 
 ---
 
+## Related Systems
+
+- **Motion CSB Bible:** https://motion-csb-bible.vercel.app/bible.html — synthesized bootcamp source reference
+- **Motion CSB Resource Hub:** https://motion-csb-bible.vercel.app/ — original decks, tools, and week-by-week resources
+- **Creative Strategy Vault:** https://creative-strategy-vault.vercel.app/ — broader advertising, brand, and creator-strategy reference
+- **Creative Strategist OS:** https://creative-strategy-vault.vercel.app/vault.html#22 — role, workflow, skill tree, diagnosis, testing, and learning loop
+- **Motion CSB → OS Crosswalk:** https://creative-strategy-vault.vercel.app/vault.html#23 — maps each bootcamp week to workflows, subskills, interview use, and client diagnosis
+
+Use the **CSB Bible** to answer “What did Motion teach?”  
+Use the **Vault** to answer “How does this fit the broader field?”  
+Use the **OS** to answer “How do I operate?”  
+Use the **portfolio** to answer “How do I prove it?”
+
 ## Install
 
 ```bash
