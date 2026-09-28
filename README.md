@@ -82,6 +82,17 @@ motion:ad-swipe [brand] [product] [persona] [angle] [emotion]
 
 ---
 
+## Creative Strategy Hall of Fame
+
+Study the 50-person canon across direct response, planning, creative leadership, brand strategy, marketing science, and modern performance creative:
+
+- **Live Hall of Fame:** https://creative-strategy-vault.vercel.app/vault.html#24
+- **Repo mirror:** [CREATIVE-STRATEGY-HALL-OF-FAME.md](CREATIVE-STRATEGY-HALL-OF-FAME.md)
+
+Use it as a problem-based learning router, not a ranking.
+
+---
+
 ## Related Systems
 
 - **Motion CSB Bible:** https://motion-csb-bible.vercel.app/bible.html — synthesized bootcamp source reference
